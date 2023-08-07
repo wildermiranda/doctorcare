@@ -6,16 +6,12 @@
     <img alt="Doctorcare preview" src=".github/preview.png" width="100%">
 </article>
 
-## Links
-
-🔗 Solution URL: [https://wildermiranda.github.io/doctorcare/](https://wildermiranda.github.io/doctorcare/)
-
-
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Mobile first
 - Flexbox
 - Grid layout
 - JavaScript
